@@ -29,11 +29,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyunell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<br clear="both">
-
-<div align="left">
   <a href="https://www.linkedin.com/in/gunel-mammadzade-856214375/?trk=PROFILE_DROP_DOWN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20with%20me%20on&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
