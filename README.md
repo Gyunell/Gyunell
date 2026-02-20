@@ -16,17 +16,38 @@
 
 ###
 
-<p align="left">🎓 I'm a 2nd year Mathematical Engineering student at  Yildiz Technical University.<br>💭 I have a deep interest in Software Development and in some Programming languages</p>
+<p align="left">🎓 I'm a 2nd year Mathematical Engineering student at  Yildiz Technical University.<br>💭 I have a deep interest in Software Development and creating interactive web experiences.</p>
 
 ###
 
-<h2 align="left">🛠️ Programming & Digital Skills</h2>
+<h2 align="left">🛠️ Programming & Digital Skills ( •̀ᴗ•́ )و</h2>
 
 ###
 
-<p align="left">- C#/ C++ programming languages<br>- JavaScript , HTML, CSS, Bootstrap  <br>- UX/UI Design <br>- Git and Github</p>
+<table align="left">
+  <tr>
+    <td><b>💻 Front-end</b></td>
+    <td>JavaScript (ES6+), HTML5 (Semantic), CSS3 (Flexbox/Grid), Bootstrap</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Logic & Engines</b></td>
+    <td>DOM Manipulation, State Management, Web Audio API</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Design & UX</b></td>
+    <td>UI/UX Design, Adaptive/Responsive Layouts, Keyframe Animations</td>
+  </tr>
+  <tr>
+    <td><b>🛰️ Workflow</b></td>
+    <td>Git & GitHub, GitHub Pages (Deployment), Chrome DevTools</td>
+  </tr>
+  <tr>
+    <td><b>🔢 Languages</b></td>
+    <td>C#, C++, JavaScript</td>
+  </tr>
+</table>
 
-###
+<br><br><br><br><br><br><br><br><br> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gunel-mammadzade-856214375/?trk=PROFILE_DROP_DOWN" target="_blank">
@@ -37,5 +58,3 @@
 ###
 
 <h4 align="left">✨ Always open to new opportunities in software development, engineering projects, and technology-driven solutions 🚀</h4>
-
-###
