@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 I'm a 2nd year Mathematical Engineering student at  Yildiz Technical University.<br>💭 I have a deep interest in Software Development and creating interactive web experiences.</p>
+<p align="left">🎓 I'm a 3rd year Mathematical Engineering student at  Yildiz Technical University.<br>💭 I have a deep interest in Software Development and creating interactive web experiences.</p>
 
 ###
 
