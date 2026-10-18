@@ -1,8 +1,8 @@
-<h1 align="left">Heyy👋 I'm Gunel Mammadzade! ✨😊</h1>
+<h1 align="left">Heyy👋 I'm Gunel Mammadzada! </h1>
 
 ###
 
-<p align="left">As a Mathematical Engineering student, I’m passionate about coding, problem-solving, and creating meaningful digital solutions.  <br>I believe that technology, mathematics, and creativity together can make the world a better place.👀</p>
+<p align="left">As a Mathematical Engineering student, I’m passionate about coding, problem-solving, and creating meaningful digital solutions.  <br>I believe that technology, mathematics, and creativity together can make the world a better place.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 I'm a 4th year Mathematical Engineering student at  Yildiz Technical University.<br>💭 I have a deep interest in Software Development and creating interactive web experiences.</p>
+<p align="left"> I'm a 4th year Mathematical Engineering student at  Yildiz Technical University.<br> I have a deep interest in Software Development and creating interactive web experiences.</p>
 
 ###
 
@@ -26,23 +26,23 @@
 
 <table align="left">
   <tr>
-    <td><b>💻 Front-end</b></td>
+    <td><b> Front-end</b></td>
     <td>JavaScript (ES6+), HTML5 (Semantic), CSS3 (Flexbox/Grid), Bootstrap</td>
   </tr>
   <tr>
-    <td><b>⚙️ Logic & Engines</b></td>
+    <td><b> Logic & Engines</b></td>
     <td>DOM Manipulation, State Management, Web Audio API</td>
   </tr>
   <tr>
-    <td><b>🎨 Design & UX</b></td>
+    <td><b> Design & UX</b></td>
     <td>UI/UX Design, Adaptive/Responsive Layouts, Keyframe Animations</td>
   </tr>
   <tr>
-    <td><b>🛰️ Workflow</b></td>
+    <td><b> Workflow</b></td>
     <td>Git & GitHub, GitHub Pages (Deployment), Chrome DevTools</td>
   </tr>
   <tr>
-    <td><b>🔢 Languages</b></td>
+    <td><b> Languages</b></td>
     <td>C#, C++, JavaScript</td>
   </tr>
 </table>
@@ -57,4 +57,4 @@
 
 ###
 
-<h4 align="left">✨ Always open to new opportunities in software development, engineering projects, and technology-driven solutions 🚀</h4>
+<h4 align="left"> Always open to new opportunities in software development, engineering projects, and technology-driven solutions 🚀</h4>
